@@ -8,6 +8,6 @@
 - 3D Model: https://www.eclipson-airplanes.com/ebw-160-uav
 - Printed on a heavily modified Ender 3 Pro
 
-![Image of Blackwing from the top](https://github.com/LinusThorsell/eclipson-blackwing/blob/main/swappy-20241209_202929.png?raw=true)
-
 ![Image of the electronics](https://github.com/LinusThorsell/eclipson-blackwing/blob/main/swappy-20241209_202951.png?raw=true)
+
+![Image of Blackwing from the top](https://github.com/LinusThorsell/eclipson-blackwing/blob/main/swappy-20241209_202929.png?raw=true)
