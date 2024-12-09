@@ -2,6 +2,9 @@
 
 ![Image of Blackwing from the front](https://github.com/LinusThorsell/eclipson-blackwing/blob/main/swappy-20241209_202916.png?raw=true)
 
+## Watch it fly!
+[YouTube.com](https://www.youtube.com/watch?v=umeUysA7DbM)
+
 ## Specifications
 - FC: https://www.mateksys.com/?portfolio=f405-wing
 - Software: https://github.com/iNavFlight/inav
